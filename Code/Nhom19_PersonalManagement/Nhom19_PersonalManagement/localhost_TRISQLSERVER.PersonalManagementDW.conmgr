@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="localhost_TRISQLSERVER.PersonalManagementDW"
+  DTS:DTSID="{B2CE83ED-8F4E-4D9F-97E6-E6427C0A15C3}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=localhost\TRISQLSERVER;Initial Catalog=PersonalManagementDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Nhom19_PersonalManagement-{B2CE83ED-8F4E-4D9F-97E6-E6427C0A15C3}localhost\TRISQLSERVER.PersonalManagementDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
