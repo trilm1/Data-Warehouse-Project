@@ -9,10 +9,6 @@ Mục tiêu: các thành viên nhóm đều thành thạo quá trình chọn t�
 Hướng dẫn sử dụng:
 -Phải chạy các file scrip SQL trước khi sử dụng.
 -Sau khi mở Nhom19_PersonalManagement.sln, điều chỉnh các connection cho phù hợp đường dẫn trên máy sử dụng.
-********************************************************************************
-Danh sách thành viên:
-+ Lê Minh Trí – 20133100
-+ Vũ Xuân Huy – 20133048
-+ Đỗ Trọng Khôi – 20133056
+
 ********************************************************************************
 Cảm ơn thầy đã đọc file này và chấp nhận bài làm nhóm em. Chúc thầy sức khoẻ.
